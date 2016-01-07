@@ -1,4 +1,4 @@
-tablesorter
+tablesorter  markdown
 ===========
 
 ###Flexible client-side table sorting
